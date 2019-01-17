@@ -2,8 +2,8 @@
 
 int main(void) {
 
-	printf("Hello, my name is Damien Kackmeister.\n"); 
-
+	printf("Damien Kackmeister\n"); 
+	printf("Electrical Engineering")
 
 	return 0;
 }
