@@ -2,8 +2,8 @@
 
 int main(void) {
 
-	printf("Damien Kackmeister\n"); 
-	printf("Electrical Engineering")
+	printf("Electrical Engineering\n");
+
 
 	return 0;
 }
